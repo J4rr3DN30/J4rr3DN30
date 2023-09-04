@@ -1,2 +1,2 @@
 - 👋 Hi, Im J4rr3DN30
-- Hello Worl.
+- Hello World.
